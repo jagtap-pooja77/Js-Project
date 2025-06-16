@@ -1,0 +1,33 @@
+body {
+
+ display: flex;
+   justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#div-1 {
+  background-color:rgb(219, 118, 193);
+  padding: 20px;
+  text-align: center;
+  color: white;
+  max-width: 400px;
+  width: 100%;
+}
+
+#text-1 {
+ padding: 4px;
+  border: none;
+  width:60%;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+#btn{
+padding: 4px;
+width: 40%;
+font-size: 15px;
+margin-top: 1rem;
+background-color: #00aeff;
+color: white;
+}

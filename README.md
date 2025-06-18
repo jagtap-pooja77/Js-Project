@@ -21,7 +21,7 @@ A fun and interactive number guessing game built with plain HTML, CSS & JavaScri
 ## 🚀 Live Demo
 
 
-[▶️ Play the Guess the Number Game](https://your-live-demo-link.com)
+[▶️ Play the Guess the Number Game](https://jagtap-pooja77.github.io/Js-Project/)
 
 ---
 
